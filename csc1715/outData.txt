@@ -1,0 +1,4 @@
+Name: John Appleseed, Department: Accoutning
+Monthly Gross Salary: $5600.00 Monthly Bonus: 5.00%, Taxes: 30.00% Paycheck: $4200.00
+Distance Travelled: 450.00 miles, Travelling Time: 9.00 hours, Average Speed: 50.00 miles per hour
+Number of coffee cups sold: 75.00, Cost: $1.50 per cup, Sales Amount: $112.50
